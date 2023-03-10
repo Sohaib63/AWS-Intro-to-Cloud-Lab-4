@@ -81,7 +81,7 @@ In this task, you create a MySQL database in your virtual private cloud (VPC). M
 17. You should receive this message: Creating database inventory-db.
     * If you receive an error message that mentions rds-monitoring-role, confirm that you have cleared the Enable Enhanced monitoring option in the previous step, and then try again.
 18. Before you continue to the next task, the database instance status must be Available. This process could take several minutes.
-
+![AWS](https://github.com/Sohaib63/AWS-Intro-to-Cloud-Lab-4/blob/main/Screenshot%20(70).png)
 ## Task 2: Configuring web application communication with a database instance
 
 This lab automatically deployed an Amazon Elastic Compute Cloud (Amazon EC2) instance with a running web application. You must use the IP address of the instance to connect to the application.
@@ -117,7 +117,7 @@ This lab automatically deployed an Amazon Elastic Compute Cloud (Amazon EC2) ins
 17. You can use the web application to add inventory, edit, and delete inventory information. The inventory information is stored in the Amazon RDS MySQL database that you created earlier in the lab. This means that in the event of any failure in the application server, you will not lose any data. It also means that multiple application servers can access the same data.
 18. Insert new records into the table. Ensure that the table has 5 or more inventory records before submitting your work.
 19. You have now successfully launched the application and connected it to the database.
-
+![AWS](https://github.com/Sohaib63/AWS-Intro-to-Cloud-Lab-4/blob/main/Screenshot%20(71).png)
 Optional: To access the saved parameters, go to the AWS Management console. On the **Services** menu, choose Systems Manager. In the left navigation menu, choose Parameter Store.
 
 # Submitting your work
