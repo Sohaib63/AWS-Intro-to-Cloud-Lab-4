@@ -13,7 +13,7 @@ After completing this lab, you should be able to:
 
 At the end of this lab, your architecture will look like the following example:
 
-![Architecture Diagram](/path/to/diagram.png)
+![Architecture Diagram](https://github.com/Sohaib63/AWS-Intro-to-Cloud-Lab-4/blob/main/Lab%20tut%20pic.png)
 
 ## Duration
 
